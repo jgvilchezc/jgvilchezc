@@ -1,6 +1,6 @@
 <!--
   sheet: github.com/jgvilchezc · profile
-  drawn: jgvilchezc · rev: a3f9c · scale 1:1
+  drawn: jgvilchezc · rev: a3f9c · scale 1:1 · sheet 1/1
   this file mirrors jgvilchezc.dev — runtime discipline, drafting sheet, indigo on paper.
 -->
 
