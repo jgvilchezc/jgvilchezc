@@ -7,14 +7,22 @@
 <div align="center">
 
 ```
-      :
-     .=+          ● booting…  →  operational
-    -*#%-
-   :+%@#x=         status  operational · region sa-east-1 · node v24
-  .=#@@@%+:        p50  42ms · uptime 99.98% · rev a3f9c
-  -x%@@@@#=
-   :=x##x=:      ▲ jgvilchezc.dev · runtime v24 · sa-east-1
+            .:.
+           :=+=:
+          -+*#*+-
+         =*#%@%#*=
+        +*#%@@@%#*+
+        =#%@@@@@%#=
+        -+#%@@@%#+-
+         :=+***+=:
+           -=+=-
 ```
+
+`● booting… → operational`  ·  `region sa-east-1`  ·  `node v24`
+
+`p50 42ms`  ·  `uptime 99.98%`  ·  `rev a3f9c`
+
+▲ **jgvilchezc.dev** — runtime discipline over prompt cleverness
 
 `[ 200 OK ]` · `[ DEPLOY · main ]` · `[ build a3f9c ]` · `[ region sa-east-1 ]`
 
