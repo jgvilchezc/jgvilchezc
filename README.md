@@ -6,23 +6,12 @@
 
 <div align="center">
 
-```
-            .:.
-           :=+=:
-          -+*#*+-
-         =*#%@%#*=
-        +*#%@@@%#*+
-        =#%@@@@@%#=
-        -+#%@@@%#+-
-         :=+***+=:
-           -=+=-
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/banner-dark.svg">
+  <img alt="José Gabriel Vilchez — AI Engineer · runtime discipline" src="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/banner-light.svg" width="100%">
+</picture>
 
-`● booting… → operational`  ·  `region sa-east-1`  ·  `node v24`
-
-`p50 42ms`  ·  `uptime 99.98%`  ·  `rev a3f9c`
-
-▲ **jgvilchezc.dev** — runtime discipline over prompt cleverness
+<br/>
 
 `[ 200 OK ]` · `[ DEPLOY · main ]` · `[ build a3f9c ]` · `[ region sa-east-1 ]`
 
@@ -32,11 +21,10 @@
 
 ## `01 · Identity`
 
-```
-José Gabriel Vilchez Carrasquero
-AI Engineer · Fullstack operator · Solo founder & lead engineer
-Mérida, Venezuela · UTC−4 · sa-east-1
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/whoami-dark.svg">
+  <img alt="whoami — José Gabriel Vilchez" src="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/whoami-light.svg" width="100%">
+</picture>
 
 > I build software with **runtime discipline,** not better-written prompts.
 > Typed contracts · isolated subagents · verifiable state.
@@ -60,10 +48,18 @@ spec → agent → ship
 
 ---
 
-## `03 · Skills & stack`
+## `03 · Arsenal`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,firebase,nodejs,rust,py,postgres,vercel,docker&theme=dark&perline=12">
+  <img alt="stack" src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,firebase,nodejs,rust,py,postgres,vercel,docker&theme=light&perline=12">
+</picture>
+
+</div>
 
 ```
-core        Next.js 16 · TypeScript · Supabase · Firebase · Stripe · Vercel
 ai          AI agents · MCP servers · RAG · pgvector · AI SDK v6
 method      spec-driven · contract-based · artifact-driven development
 pipeline    spec → agent → ship  ·  submit → 200 → callback  ·  callback → kv → ui
@@ -85,8 +81,8 @@ pipeline    spec → agent → ship  ·  submit → 200 → callback  ·  callba
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jgvilchezc&hide_border=true&background=00000000&stroke=1f1f22&ring=6e6bff&fire=6e6bff&currStreakLabel=6e6bff&sideLabels=a1a1aa&dates=71717a&currStreakNum=fafafa&sideNums=fafafa&dayLabels=6e6bff">
-  <img src="https://streak-stats.demolab.com?user=jgvilchezc&hide_border=true&background=00000000&stroke=e5e5e5&ring=2e2bfa&fire=2e2bfa&currStreakLabel=2e2bfa&sideLabels=71717a&dates=8a8a93&currStreakNum=0a0a0a&sideNums=0a0a0a&dayLabels=2e2bfa" alt="streak" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jgvilchezc&hide_border=true&background=00000000&stroke=1f1f22&ring=6e6bff&fire=ff8a4c&currStreakLabel=6e6bff&sideLabels=a1a1aa&dates=71717a&currStreakNum=fafafa&sideNums=fafafa&dayLabels=6e6bff">
+  <img src="https://streak-stats.demolab.com?user=jgvilchezc&hide_border=true&background=00000000&stroke=e5e5e5&ring=2e2bfa&fire=f97316&currStreakLabel=2e2bfa&sideLabels=71717a&dates=8a8a93&currStreakNum=0a0a0a&sideNums=0a0a0a&dayLabels=2e2bfa" alt="streak" height="165">
 </picture>
 
 </div>

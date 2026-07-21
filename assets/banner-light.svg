@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220" fill="none" role="img" aria-label="Jose Gabriel Vilchez — AI Engineer, runtime discipline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f4f4f5"/>
+    </linearGradient>
+    <radialGradient id="glowIndigo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 40) rotate(38) scale(360 300)">
+      <stop offset="0" stop-color="#2e2bfa" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2e2bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowEmber" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(88 108) rotate(0) scale(150 150)">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fb923c"/>
+      <stop offset="0.5" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#ea580c"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="0.7"/>
+    </filter>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="849" height="219" rx="14" fill="url(#bg)" stroke="#e4e4e7"/>
+  <rect x="0.5" y="0.5" width="849" height="219" rx="14" fill="url(#glowIndigo)"/>
+  <rect x="0.5" y="0.5" width="849" height="219" rx="14" fill="url(#glowEmber)"/>
+
+  <g stroke="#d4d4d8" stroke-width="1">
+    <path d="M18 30 V18 H30"/>
+    <path d="M832 30 V18 H820"/>
+    <path d="M18 190 V202 H30"/>
+    <path d="M832 190 V202 H820"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="1.5" fill="url(#ember)" filter="url(#soft)" xml:space="preserve">
+    <text x="40" y="58">      :</text>
+    <text x="40" y="74">     .=+</text>
+    <text x="40" y="90">    -*#%-</text>
+    <text x="40" y="106">   :+%@#x=</text>
+    <text x="40" y="122">  .=#@@@%+:</text>
+    <text x="40" y="138">  -x%@@@@#=</text>
+    <text x="40" y="154">   :=x##x=:</text>
+  </g>
+
+  <line x1="198" y1="44" x2="198" y2="176" stroke="#e4e4e7"/>
+
+  <text x="224" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="30" font-weight="700" letter-spacing="1" fill="#18181b">JOSÉ GABRIEL VILCHEZ</text>
+  <text x="226" y="114" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#52525b" xml:space="preserve">AI Engineer · Fullstack operator · <tspan fill="#2e2bfa">runtime discipline</tspan></text>
+
+  <line x1="226" y1="132" x2="720" y2="132" stroke="#e4e4e7"/>
+
+  <text x="226" y="161" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" xml:space="preserve"><tspan fill="#059669">●</tspan><tspan fill="#52525b"> operational</tspan><tspan fill="#d4d4d8">  ·  </tspan><tspan fill="#71717a">region </tspan><tspan fill="#27272a">sa-east-1</tspan><tspan fill="#d4d4d8">  ·  </tspan><tspan fill="#71717a">node </tspan><tspan fill="#27272a">v24</tspan><tspan fill="#d4d4d8">  ·  </tspan><tspan fill="#71717a">p50 </tspan><tspan fill="#ea580c">42ms</tspan><tspan fill="#d4d4d8">  ·  </tspan><tspan fill="#71717a">uptime </tspan><tspan fill="#ea580c">99.98%</tspan></text>
+</svg>
