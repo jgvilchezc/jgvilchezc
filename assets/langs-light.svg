@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" fill="none" role="img" aria-label="Most used languages">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#fafafa"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="419" height="199" rx="12" fill="url(#win)" stroke="#e4e4e7"/>
+
+  <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" xml:space="preserve"><tspan fill="#2e2bfa">▸</tspan><tspan fill="#18181b" font-weight="700"> languages</tspan></text>
+  <text x="400" y="32" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#a1a1aa">by bytes · owned repos</text>
+  <line x1="20" y1="44" x2="400" y2="44" stroke="#e4e4e7"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+    <text x="20" y="72" fill="#52525b">TypeScript</text>
+    <text x="150" y="72" text-anchor="end" fill="#a1a1aa">82.9%</text>
+    <rect x="160" y="63" width="240" height="8" rx="4" fill="#efeff1"/>
+    <rect x="160" y="63" width="199" height="8" rx="4" fill="#3178c6"/>
+
+    <text x="20" y="98" fill="#52525b">Python</text>
+    <text x="150" y="98" text-anchor="end" fill="#a1a1aa">8.6%</text>
+    <rect x="160" y="89" width="240" height="8" rx="4" fill="#efeff1"/>
+    <rect x="160" y="89" width="21" height="8" rx="4" fill="#3572a5"/>
+
+    <text x="20" y="124" fill="#52525b">JavaScript</text>
+    <text x="150" y="124" text-anchor="end" fill="#a1a1aa">4.3%</text>
+    <rect x="160" y="115" width="240" height="8" rx="4" fill="#efeff1"/>
+    <rect x="160" y="115" width="11" height="8" rx="4" fill="#e6c229"/>
+
+    <text x="20" y="150" fill="#52525b">Rust</text>
+    <text x="150" y="150" text-anchor="end" fill="#a1a1aa">2.4%</text>
+    <rect x="160" y="141" width="240" height="8" rx="4" fill="#efeff1"/>
+    <rect x="160" y="141" width="6" height="8" rx="4" fill="#c88b5a"/>
+
+    <text x="20" y="176" fill="#52525b">CSS</text>
+    <text x="150" y="176" text-anchor="end" fill="#a1a1aa">1.1%</text>
+    <rect x="160" y="167" width="240" height="8" rx="4" fill="#efeff1"/>
+    <rect x="160" y="167" width="4" height="8" rx="4" fill="#663399"/>
+  </g>
+</svg>

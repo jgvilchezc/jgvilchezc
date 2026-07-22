@@ -53,8 +53,8 @@ spec → agent → ship
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,firebase,nodejs,rust,py,postgres,vercel,docker&theme=dark&perline=12">
-  <img alt="stack" src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,firebase,nodejs,rust,py,postgres,vercel,docker&theme=light&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/arsenal-dark.svg">
+  <img alt="Next.js · TypeScript · React · Tailwind · Supabase · Firebase · Node · Rust · Python · Postgres · Vercel · Docker" src="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/arsenal-light.svg">
 </picture>
 
 </div>
@@ -72,12 +72,12 @@ pipeline    spec → agent → ship  ·  submit → 200 → callback  ·  callba
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgvilchezc&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=a1a1aa&icon_color=6e6bff&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgvilchezc&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=71717a&icon_color=2e2bfa&include_all_commits=true&count_private=true" alt="stats" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/stats-light.svg" alt="stats" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgvilchezc&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=a1a1aa&title_color=6e6bff&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgvilchezc&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=71717a&title_color=2e2bfa&langs_count=8" alt="top langs" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/langs-dark.svg">
+  <img src="https://raw.githubusercontent.com/jgvilchezc/jgvilchezc/main/assets/langs-light.svg" alt="top langs" width="49%">
 </picture>
 
 <picture>
